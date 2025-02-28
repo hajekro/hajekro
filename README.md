@@ -59,6 +59,12 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 
 ![Nokia Share Online](/images/nokia.jpg)
 
+# Key Achievements
+
+- Successfully directed hardware, software, design and business teams across multiple time-zones in finding, conceptualizing and defining the go to market strategy for a first-in-the-world product that has the potential to help milions of people obtain healthy drinking water.
+- Successfully led teams through challenging times during and post Covid-19 pandemic, successfully bringing all planned deliveries and projects to market on time and within budget.
+- Proven track record of discovering, prototyping and developing solutions in situations where other suppliers deemed the task impossible.
+
 # Tech Stack
 
 ## Programming Languages
