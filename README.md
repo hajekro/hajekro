@@ -1,7 +1,7 @@
 ## Hi there 👋
 With over 20 years in the industry, I have over 10 years of experience leading multinational teams to deliver software and hardware solutions across cloud, APIs, mobile, connected and web platforms. I'm skilled in Agile methodologies, continuous deployment, and iterative development. I'm passionate about innovation, team collaboration, automation and solving difficult problems with elegance and attention to detail.
 
-# Portfolio
+# Portfolio (Excerpt)
 
 ## Wayout Water
 >  Mar 2021 - Jan 2024
@@ -61,7 +61,7 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 
 # Key Achievements
 
-- Successfully directed hardware, software, design and business teams across multiple time-zones in finding, conceptualizing and defining the go to market strategy for a first-in-the-world product that has the potential to help milions of people obtain healthy drinking water.
+- Successfully directed software, design, hardware and business teams across multiple time-zones in finding, conceptualizing and defining the go to market strategy for a first-in-the-world product that has the potential to help milions of people obtain healthy drinking water.
 - Successfully led teams through challenging times during and post Covid-19 pandemic, successfully bringing all planned deliveries and projects to market on time and within budget.
 - Proven track record of discovering, prototyping and developing solutions in situations where other suppliers deemed the task impossible.
 
