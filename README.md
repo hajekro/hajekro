@@ -1,4 +1,6 @@
-## Hi there 👋
+# About Me
+Hi there 👋
+
 With over 20 years in the industry, I have over 10 years of experience leading multinational teams to deliver software and hardware solutions across cloud, APIs, mobile, connected and web platforms. I'm skilled in Agile methodologies, continuous deployment, and iterative development. I'm passionate about innovation, team collaboration, automation and solving difficult problems with elegance and attention to detail.
 
 # Portfolio (Excerpt)
