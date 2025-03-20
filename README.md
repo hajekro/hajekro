@@ -15,7 +15,7 @@ Wayout Water is a sustainable water purification technology company that designs
 ## 4Refuel
 >  Sep 2019 - Mar 2021
 
-4Refuel Mobile Fuel Management is a technology-driven fuel logistics and tracking system designed to optimize on-site fueling for commercial fleets, construction equipment, and industrial operations. It enables real-time tracking, automation, and reporting to improve efficiency, accuracy, and cost control in fuel delivery and consumption.
+4Refuel Mobile Fuel Management is a technology-driven fuel logistics and tracking system for mission critical infrastructure, designed to optimize on-site fueling for commercial fleets, construction equipment, and industrial operations. It enables real-time tracking, automation, and reporting to improve efficiency, accuracy, and cost control in fuel delivery and consumption.
 
 ![4Refuel](/images/4refuel.jpg)
 
