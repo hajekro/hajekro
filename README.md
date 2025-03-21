@@ -72,10 +72,13 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 ## Programming Languages
 - C#, C++, C
 - Objective-C (iOS, tvOS)
-- JavaScript
+- JavaScript (TypeScript)
 - Python
+
+## Databases
 - SQL (MySQL, PostgreSQL, DB2)
 - NoSQL (MongoDB, DynamoDB)
+- TSDB (AWS Timestream)
 
 ## Cloud & DevOps
 - AWS (EC2, S3, Lambda, RDS, TSDB, IoT Core)
@@ -86,6 +89,7 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 
 ## Mobile & Embedded Platforms
 - iOS (Objective-C)
+- ReactNative
 - Windows (.NET, UWP, WPF, Win32, COM)
 - Windows Phone (Silverlight)
 - Embedded & IoT (AWS IoT Core, Node-RED, FreeRTOS)
@@ -100,11 +104,9 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 - Web (React, Angular, Next.js, Node.js)
 - WPF, UWP
 - ASP.NET Core
-- Qt (for cross-platform applications)
 
 ## Observability & Monitoring
 - Prometheus, Grafana
-- Datadog, New Relic
 - ELK Stack (Elasticsearch, Logstash, Kibana)
 
 ## Tools & Version Control
@@ -115,8 +117,8 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 
 ## Methodologies & Leadership
 - Agile (Scrum, Kanban)
-- Scalable Architecture & Microservices
-- Cross-functional Team Leadership
-- Mentorship & Talent Development
-- Multi-time-zone Collaboration
+- Scalable architecture & microservices
+- Cross-functional team leadership
+- Mentorship & talent development
+- Global team (multizone) collaboration
 
