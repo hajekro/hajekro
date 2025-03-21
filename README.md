@@ -112,7 +112,7 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 ## Tools & Version Control
 - Azure, Jira, Confluence
 - Git, GitHub, GitLab, Bitbucket
-- Visual Studio, Xcode, JetBrains Suite
+- Visual Studio, Xcode
 - Perforce
 
 ## Methodologies & Leadership
