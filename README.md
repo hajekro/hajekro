@@ -77,7 +77,7 @@ Share Online was a Symbian S40/S60 client application for sharing and uploading 
 
 ## Databases
 - SQL (MySQL, PostgreSQL, DB2)
-- NoSQL (MongoDB, DynamoDB)
+- NoSQL (MongoDB, DynamoDB, Redis)
 - TSDB (AWS Timestream)
 
 ## Cloud & DevOps
